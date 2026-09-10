@@ -9,3 +9,8 @@ support_platforms:
   - qq_official_webhook
 astrbot_version: ">=4.28.0"
 repo: https://github.com/baichenxw/astrbot_plugin_qq_nickname
+tags:
+  - QQ官方机器人
+  - 用户资料
+  - QQ号绑定
+  - 昵称
