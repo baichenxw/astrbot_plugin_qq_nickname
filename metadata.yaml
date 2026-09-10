@@ -1,0 +1,11 @@
+name: astrbot_plugin_qq_nickname
+display_name: QQ 身份绑定
+author: baichenxw
+version: 1.2.0
+desc: 补全 QQ 官方消息的发送者 ID 和昵称，保留原始 OpenID，支持后台资料管理。
+short_desc: 绑定 QQ 号与昵称，集中管理用户资料。
+support_platforms:
+  - qq_official
+  - qq_official_webhook
+astrbot_version: ">=4.28.0"
+repo: https://github.com/baichenxw/astrbot_plugin_qq_nickname

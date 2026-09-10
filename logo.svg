@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <title>QQ 身份绑定：用户资料卡与连接标记</title>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#2563eb"/>
+      <stop offset="1" stop-color="#1648ae"/>
+    </linearGradient>
+  </defs>
+  <rect x="8" y="8" width="240" height="240" rx="54" fill="url(#bg)"/>
+  <path d="M38 202L184 56" stroke="#ffffff" stroke-opacity=".06" stroke-width="76"/>
+  <rect x="38" y="58" width="180" height="138" rx="24" fill="#102d70" opacity=".2"/>
+  <rect x="38" y="50" width="180" height="138" rx="24" fill="#ffffff"/>
+  <rect x="58" y="71" width="47" height="7" rx="3.5" fill="#c5d9fc"/>
+  <circle cx="83" cy="111" r="17" fill="#3b73d5"/>
+  <path d="M57 151c0-15 12-26 26-26s26 11 26 26v3H57z" fill="#3b73d5"/>
+  <rect x="128" y="101" width="67" height="11" rx="5.5" fill="#243c62"/>
+  <rect x="128" y="125" width="47" height="9" rx="4.5" fill="#9bacbf"/>
+  <rect x="128" y="145" width="30" height="9" rx="4.5" fill="#d2dce9"/>
+  <circle cx="185" cy="186" r="40" fill="#1648ae"/>
+  <circle cx="185" cy="182" r="36" fill="#59dfbf"/>
+  <g transform="translate(185 182) rotate(-40)" fill="none" stroke="#124c52" stroke-width="7" stroke-linecap="round">
+    <path d="M-3-11h-11a11 11 0 000 22h11"/>
+    <path d="M3-11h11a11 11 0 010 22H3"/>
+    <path d="M-9 0H9"/>
+  </g>
+</svg>
