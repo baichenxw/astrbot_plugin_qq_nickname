@@ -1,0 +1,6 @@
+.work/ export-ignore
+DEPLOYMENT.md export-ignore
+tests/ export-ignore
+.ruff_cache/ export-ignore
+.pytest_cache/ export-ignore
+__pycache__/ export-ignore
